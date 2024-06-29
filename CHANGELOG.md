@@ -76,6 +76,13 @@
   * dependencies
     * accesskit_unix bumped from 0.11.0 to 0.11.1
 
+## [0.13.0](https://github.com/mwcampbell/accesskit-c/compare/v0.12.0...0.13.0) (2024-06-29)
+
+
+### Features
+
+* Move the C bindings into a standalone repository ([105ab78](https://github.com/mwcampbell/accesskit-c/commit/105ab785f5be066b9f98661e35f36277ec671b7d))
+
 ## [0.12.0](https://github.com/AccessKit/accesskit/compare/accesskit_c-v0.11.1...accesskit_c-v0.12.0) (2024-06-29)
 
 
